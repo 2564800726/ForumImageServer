@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForumImageServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForumImageServer_jar</output-path>
+    <root id="archive" name="ForumImageServer.jar">
+      <element id="module-output" name="ForumImageServer" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/mysql-connector-java-8.0.14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
